@@ -4,6 +4,10 @@
 
 <h3 align="center">🚀 DevOps Engineer | Kubernetes | Docker | AWS | CI/CD | Monitoring</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashok01thapa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ashok01thapa?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
 ---
 
