@@ -68,7 +68,7 @@ fun_fact: "I automate everything so I can drink more chai ☕"
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| [🔗 bitlinks-app](https://github.com/ashok01thapa/bitlinks-app) | Two-tier Next.js + MongoDB URL shortener with Docker, Jenkins CI/CD, OWASP, SonarQube & Trivy scanning, and Prometheus/Grafana monitoring | Next.js, MongoDB, Docker, Jenkins, Nginx |
+| [🔗 bitlinks-app](https://github.com/ashok01thapa/BitLink_URL_Shortener.git) | Two-tier Next.js + MongoDB URL shortener with Docker, Jenkins CI/CD, OWASP, SonarQube & Trivy scanning, and Prometheus/Grafana monitoring | Next.js, MongoDB, Docker, Jenkins, Nginx |
 | [🗳️ k8s-kind-voting-app](https://github.com/ashok01thapa/kubernetes-in-one-shot/tree/master/k8s-kind-voting-app) | Voting app deployed on Kubernetes with KIND cluster | Kubernetes, Docker, KIND |
 | [📝 django-notes-app](https://github.com/ashok01thapa/kubernetes-in-one-shot/tree/master/django-notes-app) | Django app containerized & deployed on K8s | Django, Docker, K8s |
 | [📊 monitoring](https://github.com/ashok01thapa/kubernetes-in-one-shot/tree/master/monitoring) | Full monitoring stack with Prometheus & Grafana | Helm, Prometheus, Grafana |
