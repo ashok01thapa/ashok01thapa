@@ -75,24 +75,6 @@ fun_fact: "I automate everything so I can drink more chai ☕"
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashok01thapa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok01thapa&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok01thapa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashok01thapa&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
