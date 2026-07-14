@@ -75,7 +75,6 @@ fun_fact: "I automate everything so I can drink more chai ☕"
 
 ---
 
----
 
 ## 📫 Connect with Me
 
