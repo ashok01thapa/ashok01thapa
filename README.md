@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashok+Thapa;DevOps+Engineer+%F0%9F%9A%80;Kubernetes+%7C+Docker+%7C+Cloud;Automating+Everything!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 DevOps Engineer | Kubernetes | Docker | AWS | CI/CD | Monitoring</h3>
+<h3 align="center"> DevOps Engineer | Kubernetes | Docker | AWS | CI/CD | Monitoring</h3>
 
 
 
